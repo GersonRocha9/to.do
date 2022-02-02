@@ -2,19 +2,19 @@
  <img src="/src/assets/images/logo/logo.png" width="60" title="hover text">
 </p>
 
-As funcionalidades do aplicativo são:
+The app features are:
 
-Contagem de tarefas;
-Adicionar uma nova tarefa;
-Remover uma tarefa;
-Marcar e desmarcar uma tarefa como concluída.
+Task count;
+Add a new task;
+Remove a task;
+Mark and unmark a task as complete.
 
-## Template e Figma da Aplicação
+## App Template and Figma
 
 https://www.figma.com/file/L442P4syOkbHGaLr4fGad4/to.do/duplicate
 
 
-## Instalação
+## Install
 
 ```bash
 git clone https://github.com/GersonRocha9/todos.git
